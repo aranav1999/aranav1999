@@ -1,3 +1,4 @@
+# Hey there! I'm Aranav 👋
 
 <!-- Animated wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,25,30&height=180&section=header&text=Aranav&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
@@ -90,6 +91,16 @@ console.log("Welcome to my profile! 🎉");
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aranav1999&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6&title_color=FF6B6B&text_color=4ECDC4&icon_color=FFD93D)
 
 </div>
+
+### 🐍 Watch my contributions get eaten by the snake!
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/aranav1999/aranav1999/output/cyber_blue.svg)
+
+</div>
+
+---
 
 ## 📈 Activity Graph
 
