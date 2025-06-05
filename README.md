@@ -96,7 +96,7 @@ console.log("Welcome to my profile! 🎉");
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/aranav1999/aranav1999/output/neon_green.svg)
+![Snake animation](https://raw.githubusercontent.com/aranav1999/aranav1999/output/purple_haze.svg)
 
 </div>
 
