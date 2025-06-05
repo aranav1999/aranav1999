@@ -1,11 +1,11 @@
 
 <!-- Animated wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,25,30&height=180&section=header&text=Aranav&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=180&section=header&text=Aranav&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 <!-- Header with animated typing effect -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Code+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1;Building+Cool+Stuff+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Co-founder+at+Solana+AppKit+%F0%9F%9A%80;Code+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1;Building+Cool+Stuff+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -137,4 +137,4 @@ console.log("Welcome to my profile! 🎉");
 </div>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,25,30&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=120&section=footer"/>
