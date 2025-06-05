@@ -1,6 +1,6 @@
 
 <!-- Animated wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=180&section=header&text=Aranav&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=180&section=header&text=Aranav%20Jindal&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 <!-- Header with animated typing effect -->
 <div align="center">
