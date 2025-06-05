@@ -121,10 +121,9 @@ console.log("Welcome to my profile! 🎉");
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aranav)
-[![Twitter](https://img.shields.io/badge/Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aranav1999)
-[![Email](https://img.shields.io/badge/Email-FFD93D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aranav-jindal-42b4a0185/)
+[![Twitter](https://img.shields.io/badge/Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aranav_jindal)
+[![Email](https://img.shields.io/badge/Email-FFD93D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:aranav1999@gmail.com)
 
 </div>
 
