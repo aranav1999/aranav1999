@@ -92,6 +92,17 @@ console.log("Welcome to my profile! 🎉");
 
 </div>
 
+### 🐍 Watch my contributions get eaten by the snake!
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/aranav1999/aranav1999/output/neon_green.svg)
+
+</div>
+
+---
+
+
 ## 📈 Activity Graph
 
 <div align="center">
